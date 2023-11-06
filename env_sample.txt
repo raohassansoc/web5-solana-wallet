@@ -1,0 +1,2 @@
+ENCRYPTION_KEY='12345';
+END_POINT='http://localhost:8080'
